@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Northeastern University Khoury College of Sciences 				                              
+B.S. in Computer Science and Mathematics						            Expected
+Graduation, April 2028
+GPA: --
+Related Coursework: Discrete Structures, Calculus, Probability and Statistics, Logic and Computation, Algorithms and Data, Object-Oriented Design, AI, Software Development, Linear Algebra, Differential Equations and Linear Algebra, Group Theory, Number Theory
